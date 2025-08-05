@@ -1,2 +1,2 @@
 # Film_junky_union
-Data Analysis and creation of a model that predict if a review is positive or negative and it's rating.  
+Sistema completo de análisis de sentimientos para reseñas de películas, implementando y comparando 5 enfoques diferentes desde técnicas clásicas de NLP hasta modelos transformer de última generación (BERT), logrando automatizar la clasificación de polaridad de opiniones con precisión de nivel industrial.
